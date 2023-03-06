@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.2.3",
     "mephisto-task": "^2.0.1",
     "rc-slider": "^8.6.3",
     "react": "16.13.1",
